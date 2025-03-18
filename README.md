@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes sales and profit data from a fictional Superstore dataset to uncover trends and provide actionable insights. The goal was to create an interactive Excel dashboard that enables stakeholders to explore data dynamically and make informed business decisions.
 
-# Key Objectives
+## Key Objectives
 Clean and preprocess raw data to ensure accuracy.
 Create meaningful visualizations to highlight key performance indicators (KPIs).
 Develop an interactive dashboard with slicers to filter and analyze data by region, category, and segment.
