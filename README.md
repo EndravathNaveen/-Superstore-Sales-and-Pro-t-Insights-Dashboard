@@ -1,1 +1,1 @@
-# -Superstore-Sales-and-Pro-t-Insights-Dashboard
+# -Superstore-Sales-and-Profit-Insights-Dashboard
